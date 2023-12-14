@@ -1,1 +1,1 @@
-# felore
+# The Felore programming language
